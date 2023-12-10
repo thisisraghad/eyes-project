@@ -1,6 +1,6 @@
 # eyes-project
 this project is a web page with two eyes that follow your mouse movement.
-![eyes page, image screenshot](eyes1.png)
+![eyes page, image screenshot](eyes1.PNG)
 
 ## Installation
 Download the project and run it using browser.
